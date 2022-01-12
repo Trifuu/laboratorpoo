@@ -1,6 +1,4 @@
-text
-ANA ARE MERE
-jdldjsadjslajd
-
-noi modificari
-adaugare text
+int suma(int a, int b)
+{
+    return a+b;
+}
